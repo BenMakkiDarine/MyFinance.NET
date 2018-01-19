@@ -1,0 +1,180 @@
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\ApplicationInsights.config
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\roslyn\csc.exe
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\roslyn\vbc.exe
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\MyFinance.Web.dll.config
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\MyFinance.Web.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\MyFinance.Web.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Antlr3.Runtime.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\EntityFramework.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Myfinance.Data.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Myfinance.domain.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\MyFinance.ServicePattern.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\MyFinance.ServiceSpec.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Newtonsoft.Json.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Owin.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\System.Web.Helpers.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\System.Web.Mvc.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\System.Web.Optimization.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\System.Web.Razor.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\System.Web.WebPages.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\WebGrease.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Myfinance.Data.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Myfinance.domain.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\MyFinance.ServicePattern.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\MyFinance.ServiceSpec.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\System.Web.Helpers.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\System.Web.Mvc.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\System.Web.Optimization.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\System.Web.Razor.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\System.Web.WebPages.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Newtonsoft.Json.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\EntityFramework.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\obj\Debug\MyFinance.Web.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\obj\Debug\MyFinance.Web.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.Web\obj\Debug\MyFinance.Web.csprojResolveAssemblyReference.cache
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\ApplicationInsights.config
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\roslyn\csc.exe
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\roslyn\vbc.exe
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\roslyn\VBCSCompiler.exe
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\MyFinance.Web.dll.config
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\MyFinance.Web.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\MyFinance.Web.pdb
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Antlr3.Runtime.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\EntityFramework.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\EntityFramework.SqlServer.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.Agent.Intercept.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.DependencyCollector.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.Web.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.WindowsServer.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.ApplicationInsights.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.Facebook.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.Google.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.Twitter.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Myfinance.Data.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Myfinance.domain.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\MyFinance.ServicePattern.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\MyFinance.ServiceSpec.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Newtonsoft.Json.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Owin.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\System.Web.Helpers.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\System.Web.Mvc.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\System.Web.Optimization.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\System.Web.Razor.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\System.Web.WebPages.Deployment.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\System.Web.WebPages.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\System.Web.WebPages.Razor.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\WebGrease.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Myfinance.Data.pdb
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Myfinance.domain.pdb
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\MyFinance.ServicePattern.pdb
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\MyFinance.ServiceSpec.pdb
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.DependencyCollector.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.Web.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.AI.WindowsServer.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.ApplicationInsights.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\System.Web.Helpers.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\System.Web.Mvc.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\System.Web.Optimization.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\System.Web.Razor.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\System.Web.WebPages.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\System.Web.WebPages.Deployment.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\System.Web.WebPages.Razor.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Antlr3.Runtime.pdb
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Newtonsoft.Json.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\EntityFramework.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\EntityFramework.SqlServer.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.Facebook.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.Google.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.Twitter.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\obj\Debug\MyFinance.Web.csprojResolveAssemblyReference.cache
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\obj\Debug\MyFinance.Web.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.Web\obj\Debug\MyFinance.Web.pdb

@@ -1,0 +1,22 @@
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServicePattern\obj\Debug\MyFinance.ServicePattern.csprojResolveAssemblyReference.cache
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServicePattern\bin\Debug\MyFinance.ServicePattern.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServicePattern\bin\Debug\MyFinance.ServicePattern.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServicePattern\bin\Debug\Myfinance.Data.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServicePattern\bin\Debug\Myfinance.domain.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServicePattern\bin\Debug\EntityFramework.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServicePattern\bin\Debug\Myfinance.Data.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServicePattern\bin\Debug\Myfinance.domain.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServicePattern\bin\Debug\EntityFramework.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServicePattern\obj\Debug\MyFinance.ServicePattern.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServicePattern\obj\Debug\MyFinance.ServicePattern.pdb
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServicePattern\bin\Debug\MyFinance.ServicePattern.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServicePattern\bin\Debug\MyFinance.ServicePattern.pdb
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServicePattern\bin\Debug\Myfinance.Data.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServicePattern\bin\Debug\Myfinance.domain.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServicePattern\bin\Debug\EntityFramework.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServicePattern\bin\Debug\Myfinance.Data.pdb
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServicePattern\bin\Debug\Myfinance.domain.pdb
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServicePattern\bin\Debug\EntityFramework.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServicePattern\obj\Debug\MyFinance.ServicePattern.csprojResolveAssemblyReference.cache
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServicePattern\obj\Debug\MyFinance.ServicePattern.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServicePattern\obj\Debug\MyFinance.ServicePattern.pdb

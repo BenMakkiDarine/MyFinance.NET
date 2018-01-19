@@ -1,0 +1,10 @@
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.domain\bin\Debug\Myfinance.domain.dll.config
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.domain\bin\Debug\Myfinance.domain.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.domain\bin\Debug\Myfinance.domain.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.domain\bin\Debug\EntityFramework.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.domain\bin\Debug\EntityFramework.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.domain\obj\Debug\Myfinance.domain.csprojResolveAssemblyReference.cache
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.domain\obj\Debug\Myfinance.domain.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.domain\obj\Debug\Myfinance.domain.pdb

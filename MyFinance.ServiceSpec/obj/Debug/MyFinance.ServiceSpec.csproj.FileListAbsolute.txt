@@ -1,0 +1,26 @@
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\MyFinance.ServiceSpec.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\MyFinance.ServiceSpec.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\Myfinance.Data.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\Myfinance.domain.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\MyFinance.ServicePattern.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\EntityFramework.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\Myfinance.Data.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\Myfinance.domain.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\MyFinance.ServicePattern.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\EntityFramework.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServiceSpec\obj\Debug\MyFinance.ServiceSpec.csprojResolveAssemblyReference.cache
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServiceSpec\obj\Debug\MyFinance.ServiceSpec.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\MyFinance.ServiceSpec\obj\Debug\MyFinance.ServiceSpec.pdb
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\MyFinance.ServiceSpec.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\MyFinance.ServiceSpec.pdb
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\Myfinance.Data.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\Myfinance.domain.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\MyFinance.ServicePattern.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\EntityFramework.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\Myfinance.Data.pdb
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\Myfinance.domain.pdb
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\MyFinance.ServicePattern.pdb
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServiceSpec\bin\Debug\EntityFramework.xml
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServiceSpec\obj\Debug\MyFinance.ServiceSpec.csprojResolveAssemblyReference.cache
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServiceSpec\obj\Debug\MyFinance.ServiceSpec.dll
+D:\dotnet ahmed\rev\Myfinance\MyFinance.ServiceSpec\obj\Debug\MyFinance.ServiceSpec.pdb

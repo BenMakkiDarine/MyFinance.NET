@@ -1,0 +1,41 @@
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\bin\Debug\Myfinance.Data.dll.config
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\bin\Debug\Myfinance.Data.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\bin\Debug\Myfinance.Data.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\bin\Debug\EntityFramework.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\bin\Debug\Myfinance.domain.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\bin\Debug\Myfinance.domain.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\bin\Debug\EntityFramework.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.csprojResolveAssemblyReference.cache
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.dll
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.pdb
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.Migrations.BaseDeDoneeInitialisation.resources
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.csproj.GenerateResource.Cache
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.Migrations.AjoutChampsImage_Product.resources
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.Migrations.ModifyNameImage.resources
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.Migrations.updateChemical.resources
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.Migrations.Annotation.resources
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.Migrations.FluentApiModification.resources
+C:\Users\Tibou\Desktop\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.Migrations.ConventionModification.resources
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\bin\Debug\Myfinance.Data.dll.config
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\bin\Debug\Myfinance.Data.dll
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\bin\Debug\Myfinance.Data.pdb
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\bin\Debug\EntityFramework.dll
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\bin\Debug\Myfinance.domain.dll
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\bin\Debug\Myfinance.domain.pdb
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\bin\Debug\EntityFramework.xml
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.csprojResolveAssemblyReference.cache
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.Migrations.BaseDeDoneeInitialisation.resources
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.Migrations.AjoutChampsImage_Product.resources
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.Migrations.ModifyNameImage.resources
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.Migrations.updateChemical.resources
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.Migrations.Annotation.resources
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.Migrations.FluentApiModification.resources
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.Migrations.ConventionModification.resources
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.Migrations.UpdateID.resources
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.csproj.GenerateResource.Cache
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.dll
+D:\dotnet ahmed\rev\Myfinance\Myfinance.Data\obj\Debug\Myfinance.Data.pdb
